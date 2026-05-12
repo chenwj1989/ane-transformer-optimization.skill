@@ -69,6 +69,22 @@ ANE/Core ML timing and placement are meaningful on **Apple silicon** with `corem
 
 ---
 
+## References
+
+- [Deploying Transformers on the Apple Neural Engine](https://machinelearning.apple.com/research/neural-engine-transformers)
+- [github.com/apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers)
+- [WWDC 2022 — Optimize ML for ANE](https://developer.apple.com/videos/play/wwdc2022/10063)
+
+---
+
 ## License
 
-No license file included. Add a `LICENSE` if you intend to specify reuse terms.
+This project is released under the [MIT License](LICENSE).
+
+Copyright (c) 2026 wjchen
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
