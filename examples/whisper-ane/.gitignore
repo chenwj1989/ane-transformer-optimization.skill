@@ -1,0 +1,11 @@
+# Cloned whisper source (dependency, not part of this repo)
+whisper/
+
+# CoreML export outputs
+.output/
+
+# Python virtualenv
+.venv/
+
+# macOS
+.DS_Store
